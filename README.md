@@ -1,6 +1,14 @@
-# Welcome to Remix!
+# Remix-Vite Boilerplate with ![flowbite logo](image.png) Flowbite
 
 - 📖 [Remix docs](https://remix.run/docs)
+- 📖 [Flowbite docs](https://flowbite.com/docs/getting-started/introduction)
+- 📖 [Flowbite React docs](https://flowbite-react.com/docs/getting-started/introduction)
+
+## Package Installation (package-lock.json)
+
+```shellscript
+npm ci
+```
 
 ## Development
 
@@ -37,4 +45,4 @@ Make sure to deploy the output of `npm run build`
 
 ## Styling
 
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. For this boilerplate, we will be using Flowbite and Flowbite React.
